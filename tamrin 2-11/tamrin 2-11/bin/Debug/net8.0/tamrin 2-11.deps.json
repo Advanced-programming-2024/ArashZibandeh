@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tamrin 2-11/1.0.0": {
+        "runtime": {
+          "tamrin 2-11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tamrin 2-11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
