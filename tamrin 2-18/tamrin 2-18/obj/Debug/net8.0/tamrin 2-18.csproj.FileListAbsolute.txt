@@ -1,0 +1,14 @@
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\bin\Debug\net8.0\tamrin 2-18.exe
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\bin\Debug\net8.0\tamrin 2-18.deps.json
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\bin\Debug\net8.0\tamrin 2-18.runtimeconfig.json
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\bin\Debug\net8.0\tamrin 2-18.dll
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\bin\Debug\net8.0\tamrin 2-18.pdb
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.AssemblyInfoInputs.cache
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.AssemblyInfo.cs
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.csproj.CoreCompileInputs.cache
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.dll
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\refint\tamrin 2-18.dll
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.pdb
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\tamrin 2-18.genruntimeconfig.cache
+C:\Tamrin 2-0\tamrin 2-18\tamrin 2-18\obj\Debug\net8.0\ref\tamrin 2-18.dll
